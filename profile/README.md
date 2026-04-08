@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://c.tenor.com/8j14kGSCzQsAAAAC/tenor.gif" alt="EV" />
-</p>
 
 <p align="center">
 <b>[ L A N G U A G E S ]</b><br>
